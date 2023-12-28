@@ -38,13 +38,7 @@ Source : DANE (2023)
 
 ## Bibliographie
 
-- Bryan, G., Glaeser, E., Tsivanidis, N. (2020). [Cities in the Developing World](https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-080218-030303)
-- DANE (2023) [Gran Encuesta Integrada de Hogares 2021](https://www.datos.gov.co/Estad-sticas-Nacionales/Gran-Encuesta-Integrada-de-Hogares-GEIH/mcpt-3dws/about_data)
-- France Strategie (2023) [Depenses de Logement et Transports : Quel Arbitrage? ](https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs-2023-na117-logement-transport-fevrier_0.pdf)
-- Medina et al. (2007) [Stratification and Public Utility Services in Colombia: Subsidies to Households or Distortion of Housing Prices? Economía, Vol. 7, No. 2 (Spring, 2007), pp. 41-99](https://www.jstor.org/stable/20060492) 
-- Rodríguez-Pose, A. (2020). [The Rise of Populism and the Revenge of the Places That Don’t Matter](http://doi.org/10.31389/lseppr.4)
-- Tsivanidis, N. (2023) [Evaluating the Impact of Urban Transit Infrastructure:
-Evidence from Bogotá’s TransMilenio*]( [https://static1.squarespace.com/static/55bb98e2e4b0ba843f39599e/t/64c98e1aa0fcf82d1bda8d52/1690930717404/TsivanidisTransMillenio_8.2023.pdf)
+
 
 Ce projet s'appuie sur des méthodologies antérieures, en particulier France Strategie (2023), ainsi que sur d'autres travaux connexes.
 
