@@ -31,7 +31,10 @@ Nous réalisons des statistiques descriptives et utilisons des modèles de régr
 
 ### Visualisation et Conclusion
 
-La visualisation par cartes des différentes catégories de territoires permet de voir les écarts de dépense en logement à l'intérieur des départements (entre les couches territoriales) et entre les départements. Enfin, nous tirons des conclusions sur la structure urbaine colombienne.
+La visualisation par cartes des différentes catégories de territoires permet de voir les écarts de dépense en logement à l'intérieur des départements (entre les couches territoriales) et entre les départements. Nous utiliserons aussi les poids de sondage afin de présenter des cartes représentatives du champ étudié. Enfin, nous tirons des conclusions sur la structure urbaine colombienne.
+
+Champ : Population active en Colombie, décembre 2021
+Source : DANE (2023)
 
 ## Bibliographie
 
