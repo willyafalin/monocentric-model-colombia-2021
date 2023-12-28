@@ -27,18 +27,24 @@ Nous utilisons des données ouvertes, l'enquête des ménages en Colombie de 202
 
 ### Statistiques et Modélisation
 
-Nous réalisons des statistiques descriptives et utilisons des modèles de régression pour explorer les relations entre le coût de la vie, les caractéristiques individuelles et les effets d'agglomération liés au territoire. Nous effectuons d'abord une analyse inter-territoriale pour déterminer la structure de l'urbain en Colombie. D'abord, une analyse inter-territoriale avec une régression linéaire (3_reg_and_tests). Cette regression initiale sera enrichie avec une selection de variable fait par nested LASSO (4_lasso_further_reg) et présentée dans 4_reg_finale. On complémente l'étude inter-territoriale avec un zoom intra-territorial, où nous utilisons une regression pondérée par les poids de sondage (4_reg_intra_territoire)
+Nous réalisons des statistiques descriptives et utilisons des modèles de régression pour explorer les relations entre le coût de la vie, les caractéristiques individuelles et les effets d'agglomération liés au territoire. Nous effectuons d'abord une analyse inter-territoriale pour déterminer la structure de l'urbain en Colombie à l'aide d'une régression linéaire (3_reg_and_tests). Cette regression initiale sera enrichie avec une selection de variable faite par nested LASSO (4_lasso_further_reg) et présentée dans 4_reg_finale. On complémente l'étude inter-territoriale avec un zoom intra-territorial, où nous utilisons une regression pondérée par les poids de sondage (4_reg_intra_territoire).
 
 ### Visualisation et Conclusion
 
 La visualisation par cartes des différentes catégories de territoires permet de voir les écarts de dépense en logement à l'intérieur des départements (entre les couches territoriales) et entre les départements. Nous utiliserons aussi les poids de sondage afin de présenter des cartes représentatives du champ étudié. Enfin, nous tirons des conclusions sur la structure urbaine colombienne.
 
-Champ : Population active en Colombie, décembre 2021
+## Bibliographie
+
+Champ de l'étude : Population active en Colombie, 2021
 Source : DANE (2023)
 
 ## Bibliographie
 
-
+- Bryan, G., Glaeser, E., Tsivanidis, N. (2020). [Cities in the Developing World](https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-080218-030303)
+- France Strategie (2023) [Depenses de Logement et Transports : Quel Arbitrage? ](https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/fs-2023-na117-logement-transport-fevrier_0.pdf)
+- Rodríguez-Pose, A. (2020). [The Rise of Populism and the Revenge of the Places That Don’t Matter](http://doi.org/10.31389/lseppr.4)
+- Tsivanidis, N. (2023) [Evaluating the Impact of Urban Transit Infrastructure:
+Evidence from Bogotá’s TransMilenio*]( [https://static1.squarespace.com/static/55bb98e2e4b0ba843f39599e/t/64c98e1aa0fcf82d1bda8d52/1690930717404/TsivanidisTransMillenio_8.2023.pdf)
 
 Ce projet s'appuie sur des méthodologies antérieures, en particulier France Strategie (2023), ainsi que sur d'autres travaux connexes.
 
